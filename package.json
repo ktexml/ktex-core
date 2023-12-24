@@ -2,6 +2,9 @@
   "name": "ktex-core",
   "module": "src/index.ts",
   "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
   "devDependencies": {
     "bun-types": "latest"
   },
