@@ -1,1 +1,1 @@
-console.log("Hello via Bun!");
+export { type Alphabet, defaultAlphabet } from "./dict";

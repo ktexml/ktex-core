@@ -1,0 +1,1 @@
+export { punctuationConsumer } from "./punctuationConsumer";
